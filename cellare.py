@@ -382,7 +382,7 @@ class Community:
         self.recovery_probability = probability
 
 
-class SimpleSimulator():
+class Simulator():
     """ 
     A class used perform multiple simulations on several different communities
     and store results in an organized manner.
